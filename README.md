@@ -1,2 +1,2 @@
 # api-django
-Build a REST API with Django
+Build a REST API with Django REST framework
